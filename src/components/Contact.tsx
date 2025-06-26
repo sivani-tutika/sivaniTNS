@@ -84,7 +84,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-blue-900 dark:text-blue-100 mb-2 transition-colors duration-300">Email</h3>
-                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">alex.smith@example.com</p>
+                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">sivanitutika4@gmail.com</p>
               </div>
             </div>
 
@@ -94,7 +94,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-blue-900 dark:text-blue-100 mb-2 transition-colors duration-300">Phone</h3>
-                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">+1 (555) 123-4567</p>
+                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">+1 (940) 340-4019</p>
               </div>
             </div>
 
@@ -104,7 +104,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="text-xl font-semibold text-blue-900 dark:text-blue-100 mb-2 transition-colors duration-300">Location</h3>
-                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">San Francisco, CA</p>
+                <p className="text-gray-700 dark:text-gray-300 transition-colors duration-300">Texas, USA</p>
               </div>
             </div>
 
@@ -115,13 +115,13 @@ export const Contact = () => {
                 I'd love to hear from you.
               </p>
               <div className="flex space-x-4">
-                <a href="#" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
+                <a href="https://www.linkedin.com/in/sivani-tutika/" target="blank" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
                   LinkedIn
                 </a>
-                <a href="#" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
+                <a href="https://github.com/sivani-tutika" target="blank"  className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
                   GitHub
                 </a>
-                <a href="#" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
+                <a href="https://x.com/Sivani_tutika" target="blank" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors">
                   Twitter
                 </a>
               </div>
@@ -195,7 +195,7 @@ export const Contact = () => {
 
         <div className="mt-20 pt-8 border-t border-gray-200 dark:border-gray-700 text-center transition-colors duration-300">
           <p className="text-gray-600 dark:text-gray-400 transition-colors duration-300">
-            © 2024 Alex Smith. Built with React & Tailwind CSS.
+            © 2025 Sivani Tutika. Built with React & Tailwind CSS.
           </p>
         </div>
       </div>
