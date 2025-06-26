@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 export const Hero = () => {
   const [text, setText] = useState("");
-  const fullText = "Full Stack Developer";
+  const fullText = "Python | AI | Full Stack Developer";
 
   useEffect(() => {
     let index = 0;
@@ -30,7 +30,7 @@ export const Hero = () => {
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-blue-900 dark:text-blue-100 mb-6 transition-colors duration-300">
             Hi, I'm{" "}
             <span className="text-blue-700 dark:text-blue-300">
-              Alex Smith
+              Sivani Tutika
             </span>
           </h1>
           
