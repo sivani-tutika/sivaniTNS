@@ -106,7 +106,7 @@ export const Projects = () => {
 
         <div className="text-center mt-12">
           <a
-            href="#"
+            href="https://github.com/sivani-tutika"
             className="inline-flex items-center px-8 py-3 bg-blue-600 dark:bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 dark:hover:bg-blue-700 transition-all duration-300 transform hover:scale-105"
           >
             View All Projects

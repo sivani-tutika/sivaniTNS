@@ -41,25 +41,25 @@ export const Hero = () => {
           </div>
 
           <p className="text-xl text-gray-600 dark:text-gray-400 mb-12 max-w-2xl mx-auto leading-relaxed transition-colors duration-300">
-            I craft beautiful, responsive web applications with modern technologies. 
+            I build beautiful, responsive applications powered with data and AI technologies. 
             Passionate about creating seamless user experiences and writing clean, maintainable code.
           </p>
 
           <div className="flex justify-center space-x-6 mb-16">
             <a
-              href="#"
+              href="https://github.com/sivani-tutika"
               className="p-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/20 hover:border-blue-300 dark:hover:border-blue-600 transition-all duration-300 hover:scale-110"
             >
               <Github size={24} className="text-gray-700 dark:text-gray-300 hover:text-blue-900 dark:hover:text-blue-100" />
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/sivani-tutika/"
               className="p-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/20 hover:border-blue-300 dark:hover:border-blue-600 transition-all duration-300 hover:scale-110"
             >
               <Linkedin size={24} className="text-gray-700 dark:text-gray-300 hover:text-blue-900 dark:hover:text-blue-100" />
             </a>
             <a
-              href="#"
+              href="mailto:sivanitutika4@gmail.com"
               className="p-3 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/20 hover:border-blue-300 dark:hover:border-blue-600 transition-all duration-300 hover:scale-110"
             >
               <Mail size={24} className="text-gray-700 dark:text-gray-300 hover:text-blue-900 dark:hover:text-blue-100" />

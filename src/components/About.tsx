@@ -1,30 +1,30 @@
 
-import { Code, Database, Palette, Smartphone } from "lucide-react";
+import { Code, Database, Cloud, Bot } from "lucide-react";
 
 export const About = () => {
   const skills = [
     {
       icon: Code,
       title: "Frontend Development",
-      description: "React, TypeScript, Tailwind CSS, Next.js",
+      description: "React, Angular, TypeScript, CSS, HTML",
       color: "from-blue-600 to-blue-800 dark:from-blue-400 dark:to-blue-600"
     },
     {
       icon: Database,
       title: "Backend Development",
-      description: "Node.js, Python, PostgreSQL, MongoDB",
+      description: "Python, MySQL, Supabase",
       color: "from-blue-700 to-blue-900 dark:from-blue-500 dark:to-blue-700"
     },
     {
-      icon: Smartphone,
-      title: "Mobile Development",
-      description: "React Native, Flutter, iOS, Android",
+      icon: Cloud,
+      title: "Cloud & Infrastructure",
+      description: "GCP, Docker, Kafka",
       color: "from-blue-500 to-blue-700 dark:from-blue-300 dark:to-blue-500"
     },
     {
-      icon: Palette,
-      title: "UI/UX Design",
-      description: "Figma, Adobe XD, User Research, Prototyping",
+      icon: Bot,
+      title: "AI/ML & Data",
+      description: "Artificial Intelligence, Machine Learning, Generative AI, Data Science",
       color: "from-blue-800 to-blue-900 dark:from-blue-600 dark:to-blue-800"
     }
   ];
@@ -38,8 +38,7 @@ export const About = () => {
           </h2>
           <div className="w-24 h-1 bg-blue-600 dark:bg-blue-400 mx-auto mb-8"></div>
           <p className="text-xl text-gray-700 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed transition-colors duration-300">
-            I'm a passionate software developer with 5+ years of experience building 
-            scalable web applications. I love turning complex problems into simple, 
+            I'm a passionate software developer building scalable applications for past 5+ years. I love turning complex problems into simple, 
             beautiful solutions that users enjoy.
           </p>
         </div>
